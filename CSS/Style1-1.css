@@ -1,0 +1,41 @@
+span {
+  color: forestgreen;
+}
+span1 {
+  color: rgb(27, 6, 19);
+}
+
+span2 {
+  color: green;
+}
+span3 {
+  color: red;
+}
+h3 {
+  font-size: 50px;
+  color: orange;
+}
+
+p2 {
+  color: red;
+  font-size:36px;
+  text-align: justify;
+}
+p3 {
+  color: rgb(30, 37, 100);
+  font-size:30px;
+  text-align: justify;
+}
+.ordinary {
+  color: rgb(128, 146, 112);
+  font-size: 36px;
+  text-align: justify;
+}
+.Img1 {
+width: 400px;
+height: 400px;
+object-fit: cover;
+}
+span1 {
+  display: block;
+}
