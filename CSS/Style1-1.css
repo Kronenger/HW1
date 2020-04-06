@@ -39,3 +39,28 @@ object-fit: cover;
 span1 {
   display: block;
 }
+
+
+.element1 {
+  list-style-type: none;
+}
+
+.element1:before {
+  content: "§  ";
+}
+
+
+
+.element2 {
+  list-style-type: none;
+}
+
+.element2:before {
+  content: "o  ";
+}.element3 {
+  list-style-type: none;
+}
+
+.element3:before {
+  content: "•            ";
+}
